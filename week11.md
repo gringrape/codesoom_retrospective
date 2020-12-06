@@ -6,7 +6,7 @@
 
 - 듣고 이해하기 기능 예제 만들기
 
-- 도메인 구입 https://ddomal.com/
+- 도메인 구입 https://ddomal.com
 
 - 디자인 공부 -> 적용
 
